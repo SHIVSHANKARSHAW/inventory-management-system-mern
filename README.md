@@ -6,6 +6,8 @@ A simple MERN project that lets the user insert, update, delete & get products f
 
 ![image](https://github.com/user-attachments/assets/35a75d93-6a17-44f9-b5c4-65e962b1c4b0)
 
+![image](https://github.com/user-attachments/assets/76856d67-110d-4430-822d-368e45c6f8b9)
+
 ## Insert Products 
 
 ![image](https://github.com/user-attachments/assets/0c9faf5d-b551-4f57-97bc-3e43bf0e3143)
